@@ -1,0 +1,6 @@
+.box1{
+  /* display: none;表示されている要素を隠すアニメーション*/
+  background-color: #FF0000;
+  height: 200px;
+  width: 200px;
+}
